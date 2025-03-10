@@ -1,20 +1,20 @@
 import React, { useState } from 'react'
-import { useRef } from 'react'
+//import { useRef } from 'react'
 import { Modal } from 'semantic-ui-react'
 
 function Appointment() {
   const [open, setOpen] = useState(false)
-  const [formData, setFormData] = useState({
-    name: "",
-    email: "",
-    mobile: "",
-    companyName: "",
-    message: ""
-  })
+  // const [formData, setFormData] = useState({
+  //   name: "",
+  //   email: "",
+  //   mobile: "",
+  //   companyName: "",
+  //   message: ""
+  // })
 
-  const [setFormLoading] = useState(false)
+  //const [setFormLoading] = useState(false)
   //const formRef = useRef()
-  const [setSuccess] = useState("")
+  //const [setSuccess] = useState("")
 
   // const handleSubmit = (e) => {
   //   e.preventDefault();
