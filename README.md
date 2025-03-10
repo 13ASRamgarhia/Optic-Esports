@@ -2,7 +2,7 @@
 
 # [Optic eSports](https://optic-esports.netlify.app/)
 
-[Click here](https://optic-esports.netlify.app/) for preview live site.\
+[Click here](https://opticesports.netlify.app/) for preview live site.\
 Optic eSports is a react app which was designed for learning purpose. This project is about a static website for an (fictional) eSports organization - Optic eSports.
 
 ![Image](https://github.com/13ASRamgarhia/Optic-eSports/blob/main/snapshot.png)
